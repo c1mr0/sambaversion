@@ -1,6 +1,6 @@
 # Description
 Sambaversion.sh is a (Linux) shell script for detecting which version of Samba is running on a remote host.
-This can be useful in situations where tools like Nmap, Metasploit etc. are either reporting no results or cannot be used for whatever reason.
+This can be useful in situations where tools like Nmap, Metasploit etc. are either reporting no results, or cannot be used for whatever reason.
 
 # Usage
 `sambaversion.sh <host> ['username%password']`
