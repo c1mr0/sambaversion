@@ -3,7 +3,7 @@ Sambaversion.sh is a (Linux) shell script for detecting which version of Samba i
 This can be useful in situations where tools like Nmap, Metasploit etc. are either reporting no results or cannot be used for whatever reason.
 
 # Usage
-`sambaversion.sh <host> ['username%password']"`
+`sambaversion.sh <host> ['username%password']`
 
 When username%password is not supplied, a null session will be attempted.
 
