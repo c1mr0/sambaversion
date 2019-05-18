@@ -14,4 +14,4 @@ sambaversion.sh 192.168.1.1 'john%secret123456'
 ```
 
 # Notes
-The script relies on smbclient and tcpdump.
+The script depends on smbclient and tcpdump.
